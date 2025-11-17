@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv310/
+.env
+*.env
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Credentials
+config.json
+secrets.json
+*.key
+*.pem
+
+# Cache / logs
+*.log
+
+# Optional: editor settings
+*.code-workspace
